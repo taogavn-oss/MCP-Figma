@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "figma": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\ADMIN\\AppData\\Local\\npm-cache\\_npx\\a33372dfc614511a\\node_modules\\figma-ui-mcp\\server\\cli.js"
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "skills": {
+    "bencium-innovative-ux-designer": {
+      "source": "bencium/bencium-marketplace",
+      "sourceType": "github",
+      "skillPath": "bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+      "computedHash": "654e647feb2dd05f76031e8966a82181b0786488030b93462381238f167f4ef6"
+    },
+    "brainstorming": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "skillPath": "skills/brainstorming/SKILL.md",
+      "computedHash": "fef7f05d17a88e6b498f24d1b2081880a4666a664cc49881f56527808f26fbd6"
+    },
+    "design-critique": {
+      "source": "owl-listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "design-ops/skills/design-critique/SKILL.md",
+      "computedHash": "7a99d81c67265809494f38b770dec11a56c4c1bec2463b5b3828ed451eea7973"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "106acf230014cbb43ca34e6410371321b56ca742f9ee0442e8ec05bf02eb0384"
+    },
+    "interface-design": {
+      "source": "dammyjay93/interface-design",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/interface-design/SKILL.md",
+      "computedHash": "55a83a96d1e3d161b8c3630dab8ae2dd4547d92636d3d9b4b447d7d59163e084"
+    },
+    "to-markdown": {
+      "source": "steveclarke/dotfiles",
+      "sourceType": "github",
+      "skillPath": "ai/skills-archive/to-markdown/SKILL.md",
+      "computedHash": "5764b9b057c566ec3ea32ae810635bad4e69bb5401c486b609b7020d5a3baec2"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "b0f52ab109c122ee4de15f4880cba51a70a14fc6dca9ab63f1027b09120da0ef"
+    },
+    "vision": {
+      "source": "kotot/vision",
+      "sourceType": "github",
+      "skillPath": "vision/SKILL.md",
+      "computedHash": "3ff0bf6adbaccca4bfc25ce795c252fcd683b795f248d138249e34ede3aa4a7f"
+    },
+    "vision-multimodal": {
+      "source": "thelobbi/claude",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/vision-multimodal/SKILL.md",
+      "computedHash": "443b51281d1e17e27dda5b26b9928c84671f2c80b1c40a4d63afb0c2160a7347"
+    },
+    "visual-design-foundations": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "skillPath": "plugins/ui-design/skills/visual-design-foundations/SKILL.md",
+      "computedHash": "2920bece2867b2a39301ee650b17b960c175ac60587af329f4da0e443fc33aae"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "d8e7d3afe37dcc8a97b99ffb5afdb4d0919ae0092ea8b68f44eb201f035e33ac"
+    }
+  }
+}

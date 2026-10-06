@@ -1,0 +1,28 @@
+# Temporary and scratch scripts
+test_*.js
+debug_*.js
+fix_*.js
+build_*.js
+gen_*.js
+query_*.js
+inspect_*.js
+clean_*.js
+cleanup_*.js
+
+# Audit & preview screenshots
+*.png
+!icon*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Temporary directories
+.tmp/
+tmp/
+temp/
+scratch/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.log
